@@ -21,7 +21,7 @@ PRODUCT_COPY_FILES += \
 
 # Snapdragon Camera
 PRODUCT_PACKAGES += \
-    SnapdragonCamera
+    Snap
 
 # Recovery keycheck
 PRODUCT_PACKAGES += \
