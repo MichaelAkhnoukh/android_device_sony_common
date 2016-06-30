@@ -54,10 +54,10 @@
     "revision":     "android-6.0"
   },
   {
-    "remote":       "omnirom",
-    "repository":   "android_packages_apps_SnapdragonCamera",
-    "target_path":  "packages/apps/SnapdragonCamera",
-    "revision":     "android-6.0"
+    "remote":       "CyanogenMod",
+    "repository":   "android_packages_apps_Snap",
+    "target_path":  "packages/apps/Snap",
+    "revision":     "cm-13.0"
   },
   {
     "remote":       "DonkeyCoyote",
