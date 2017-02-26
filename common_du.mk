@@ -28,5 +28,3 @@ PRODUCT_SYSTEM_PROPERTY_BLACKLIST := \
     ro.product.model \
     ro.product.device
 
-# Omni custom config
-$(call inherit-product, vendor/omni/config/common.mk)
